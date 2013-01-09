@@ -1,15 +1,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.alpha.cas</groupId>
-	<artifactId>cas-web-appserver</artifactId>
+	<groupId>org.alphasys.boss.authu</groupId>
+	<artifactId>alphasys_boss_authu</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cas-web-appserver Maven Webapp</name>
+	<name>alphasys_boss_authu Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	
 	<build>
-		<finalName>cas-web-appserver</finalName>
+		<finalName>alphasys_boss_authu</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-war-plugin</artifactId>
